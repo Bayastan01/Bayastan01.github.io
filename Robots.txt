@@ -1,0 +1,9 @@
+echo 'User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://bayastan01.github.io/sitemap.xml
+
+# Владелец: Bayastan Baltabaev
+# Контакт: baltabaevbayastan99@gmail.com' > robots.txt
